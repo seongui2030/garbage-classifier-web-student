@@ -1,0 +1,52 @@
+[
+  {
+    "index": 0,
+    "english": "battery",
+    "korean": "배터리"
+  },
+  {
+    "index": 1,
+    "english": "cardboard",
+    "korean": "카드보드"
+  },
+  {
+    "index": 2,
+    "english": "clothes",
+    "korean": "의류"
+  },
+  {
+    "index": 3,
+    "english": "food",
+    "korean": "음식물·생물성 쓰레기"
+  },
+  {
+    "index": 4,
+    "english": "glass",
+    "korean": "유리"
+  },
+  {
+    "index": 5,
+    "english": "metal",
+    "korean": "금속"
+  },
+  {
+    "index": 6,
+    "english": "paper",
+    "korean": "종이"
+  },
+  {
+    "index": 7,
+    "english": "plastic",
+    "korean": "플라스틱"
+  },
+  {
+    "index": 8,
+    "english": "shoes",
+    "korean": "신발"
+  },
+  {
+    "index": 9,
+    "english": "trash",
+    "korean": "일반 쓰레기"
+  }
+]

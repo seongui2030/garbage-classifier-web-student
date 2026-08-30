@@ -1,0 +1,66 @@
+/* ==========================================================
+   웹앱 전체 공통 설정
+   ========================================================== */
+
+:root {
+  font-family:
+    Pretendard,
+    "Noto Sans KR",
+    "Malgun Gothic",
+    Arial,
+    sans-serif;
+
+  color: #1e293b;
+  background: #ecfdf5;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+}
+
+
+/* 모든 요소의 크기 계산 방법을 통일합니다. */
+
+* {
+  box-sizing: border-box;
+}
+
+
+/* 전체 HTML 화면 */
+
+html {
+  min-width: 320px;
+  min-height: 100%;
+  background: #ecfdf5;
+}
+
+
+/* 브라우저 기본 바깥 여백 제거 */
+
+body {
+  min-width: 320px;
+  min-height: 100vh;
+  margin: 0;
+}
+
+
+/* 버튼과 입력 요소도 웹앱 글꼴 사용 */
+
+button,
+input {
+  font: inherit;
+}
+
+
+/* 휴대폰에서 버튼을 누를 때 생기는 강조색 제거 */
+
+button,
+label {
+  -webkit-tap-highlight-color: transparent;
+}
+
+
+/* 이미지가 화면보다 커지는 것을 방지 */
+
+img {
+  max-width: 100%;
+}
